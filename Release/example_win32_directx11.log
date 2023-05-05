@@ -1,0 +1,145 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(354,10): warning C4189: 'hovered_rect': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(489,22): warning C4189: 'state_window': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(2072,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(2072,27): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(5742,10): warning C4189: 'pressed': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(5850,99): warning C4100: 'ref_col': parámetro formal sin referencia
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(5861,17): warning C4189: 'width': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(5888,11): warning C4189: 'square_sz': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(5893,11): warning C4189: 'bars_triangles_half_sz': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(6059,11): warning C4189: 'sv_cursor_rad': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(6020,17): warning C4189: 'col_midgrey': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\alexi\Desktop\imgui_glasss xd11\imgui_widgets.cpp(5833,13): warning C4505: 'RenderArrowsForVerticalBar': se ha quitado la función sin referencia con vinculación interna
+  imgui_impl_dx11.cpp
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58019,1): message : vea la definición anterior de 'DXGI_STATUS_OCCLUDED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58028,1): message : vea la definición anterior de 'DXGI_STATUS_CLIPPED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58037,1): message : vea la definición anterior de 'DXGI_STATUS_NO_REDIRECTION'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58046,1): message : vea la definición anterior de 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58055,1): message : vea la definición anterior de 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58064,1): message : vea la definición anterior de 'DXGI_STATUS_MODE_CHANGED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58073,1): message : vea la definición anterior de 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58088,1): message : vea la definición anterior de 'DXGI_ERROR_INVALID_CALL'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58097,1): message : vea la definición anterior de 'DXGI_ERROR_NOT_FOUND'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58106,1): message : vea la definición anterior de 'DXGI_ERROR_MORE_DATA'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58115,1): message : vea la definición anterior de 'DXGI_ERROR_UNSUPPORTED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58124,1): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_REMOVED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58133,1): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_HUNG'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58143,1): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_RESET'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58152,1): message : vea la definición anterior de 'DXGI_ERROR_WAS_STILL_DRAWING'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58162,1): message : vea la definición anterior de 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58171,1): message : vea la definición anterior de 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58181,1): message : vea la definición anterior de 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58190,1): message : vea la definición anterior de 'DXGI_ERROR_NONEXCLUSIVE'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58199,1): message : vea la definición anterior de 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58209,1): message : vea la definición anterior de 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58218,1): message : vea la definición anterior de 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58524,1): message : vea la definición anterior de 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58533,1): message : vea la definición anterior de 'D3D11_ERROR_FILE_NOT_FOUND'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58543,1): message : vea la definición anterior de 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58552,1): message : vea la definición anterior de 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58500,1): message : vea la definición anterior de 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58509,1): message : vea la definición anterior de 'D3D10_ERROR_FILE_NOT_FOUND'
+  imgui_impl_win32.cpp
+  main.cpp
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58019,1): message : vea la definición anterior de 'DXGI_STATUS_OCCLUDED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58028,1): message : vea la definición anterior de 'DXGI_STATUS_CLIPPED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58037,1): message : vea la definición anterior de 'DXGI_STATUS_NO_REDIRECTION'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58046,1): message : vea la definición anterior de 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58055,1): message : vea la definición anterior de 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58064,1): message : vea la definición anterior de 'DXGI_STATUS_MODE_CHANGED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58073,1): message : vea la definición anterior de 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58088,1): message : vea la definición anterior de 'DXGI_ERROR_INVALID_CALL'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58097,1): message : vea la definición anterior de 'DXGI_ERROR_NOT_FOUND'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58106,1): message : vea la definición anterior de 'DXGI_ERROR_MORE_DATA'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58115,1): message : vea la definición anterior de 'DXGI_ERROR_UNSUPPORTED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58124,1): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_REMOVED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58133,1): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_HUNG'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58143,1): message : vea la definición anterior de 'DXGI_ERROR_DEVICE_RESET'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58152,1): message : vea la definición anterior de 'DXGI_ERROR_WAS_STILL_DRAWING'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58162,1): message : vea la definición anterior de 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58171,1): message : vea la definición anterior de 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58181,1): message : vea la definición anterior de 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58190,1): message : vea la definición anterior de 'DXGI_ERROR_NONEXCLUSIVE'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58199,1): message : vea la definición anterior de 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58209,1): message : vea la definición anterior de 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58218,1): message : vea la definición anterior de 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58524,1): message : vea la definición anterior de 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58533,1): message : vea la definición anterior de 'D3D11_ERROR_FILE_NOT_FOUND'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58543,1): message : vea la definición anterior de 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58552,1): message : vea la definición anterior de 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58500,1): message : vea la definición anterior de 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+C:\Users\alexi\Desktop\TRABAJO\celestial dx11\celestial dx11\SDK\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': redefinición de macro
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58509,1): message : vea la definición anterior de 'D3D10_ERROR_FILE_NOT_FOUND'
+C:\Users\alexi\Desktop\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(15,73): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\alexi\Desktop\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(15,34): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\alexi\Desktop\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(11,67): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\alexi\Desktop\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(20,22): warning C4459: la declaración de 'hwnd' oculta la declaración global
+C:\Users\alexi\Desktop\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(5,6): message : vea la declaración de 'hwnd'
+C:\Users\alexi\Desktop\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(235,131): warning C4390: ';': se encontró una instrucción controlada vacía; ¿es esa la intención?
+C:\Users\alexi\Desktop\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(132,10): warning C4189: 'show_demo_window': la variable local se ha inicializado pero no se hace referencia a ella
+C:\Users\alexi\Desktop\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(78,11): warning C4101: 'mouse': variable local sin referencia
+C:\Users\alexi\Desktop\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(133,10): warning C4189: 'show_another_window': la variable local se ha inicializado pero no se hace referencia a ella
+  Generando código
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 1751 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  example_win32_directx11.vcxproj -> C:\Users\alexi\Desktop\imgui_glasss xd11\examples\example_win32_directx11\Release\example_win32_directx11.exe
