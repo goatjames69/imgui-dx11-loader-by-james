@@ -1,0 +1,149 @@
+﻿  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(354,10): warning C4189: 'hovered_rect': local variable is initialized but not referenced
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(489,22): warning C4189: 'state_window': local variable is initialized but not referenced
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(2072,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(2072,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(5742,10): warning C4189: 'pressed': local variable is initialized but not referenced
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(5850,99): warning C4100: 'ref_col': unreferenced formal parameter
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(5861,17): warning C4189: 'width': local variable is initialized but not referenced
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(5888,11): warning C4189: 'square_sz': local variable is initialized but not referenced
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(5893,11): warning C4189: 'bars_triangles_half_sz': local variable is initialized but not referenced
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(6059,11): warning C4189: 'sv_cursor_rad': local variable is initialized but not referenced
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(6020,17): warning C4189: 'col_midgrey': local variable is initialized but not referenced
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\imgui_widgets.cpp(5833,13): warning C4505: 'RenderArrowsForVerticalBar': unreferenced function with internal linkage has been removed
+  imgui_impl_dx11.cpp
+D:\MyFiles\2\SDK\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58019,1): message : see previous definition of 'DXGI_STATUS_OCCLUDED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58028,1): message : see previous definition of 'DXGI_STATUS_CLIPPED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58037,1): message : see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+D:\MyFiles\2\SDK\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58046,1): message : see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+D:\MyFiles\2\SDK\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58055,1): message : see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+D:\MyFiles\2\SDK\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58064,1): message : see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58073,1): message : see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+D:\MyFiles\2\SDK\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58088,1): message : see previous definition of 'DXGI_ERROR_INVALID_CALL'
+D:\MyFiles\2\SDK\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58097,1): message : see previous definition of 'DXGI_ERROR_NOT_FOUND'
+D:\MyFiles\2\SDK\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58106,1): message : see previous definition of 'DXGI_ERROR_MORE_DATA'
+D:\MyFiles\2\SDK\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58115,1): message : see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58124,1): message : see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58133,1): message : see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+D:\MyFiles\2\SDK\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58143,1): message : see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+D:\MyFiles\2\SDK\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58152,1): message : see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+D:\MyFiles\2\SDK\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58162,1): message : see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+D:\MyFiles\2\SDK\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58171,1): message : see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+D:\MyFiles\2\SDK\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58181,1): message : see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+D:\MyFiles\2\SDK\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58190,1): message : see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+D:\MyFiles\2\SDK\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58199,1): message : see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+D:\MyFiles\2\SDK\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58209,1): message : see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58218,1): message : see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+D:\MyFiles\2\SDK\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58524,1): message : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+D:\MyFiles\2\SDK\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58533,1): message : see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+D:\MyFiles\2\SDK\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58543,1): message : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+D:\MyFiles\2\SDK\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58552,1): message : see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+D:\MyFiles\2\SDK\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58500,1): message : see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+D:\MyFiles\2\SDK\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58509,1): message : see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+  imgui_impl_win32.cpp
+  main.cpp
+D:\MyFiles\2\SDK\Include\dxgitype.h(12,1): warning C4005: 'DXGI_STATUS_OCCLUDED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58019,1): message : see previous definition of 'DXGI_STATUS_OCCLUDED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(13,1): warning C4005: 'DXGI_STATUS_CLIPPED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58028,1): message : see previous definition of 'DXGI_STATUS_CLIPPED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(14,1): warning C4005: 'DXGI_STATUS_NO_REDIRECTION': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58037,1): message : see previous definition of 'DXGI_STATUS_NO_REDIRECTION'
+D:\MyFiles\2\SDK\Include\dxgitype.h(15,1): warning C4005: 'DXGI_STATUS_NO_DESKTOP_ACCESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58046,1): message : see previous definition of 'DXGI_STATUS_NO_DESKTOP_ACCESS'
+D:\MyFiles\2\SDK\Include\dxgitype.h(16,1): warning C4005: 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58055,1): message : see previous definition of 'DXGI_STATUS_GRAPHICS_VIDPN_SOURCE_IN_USE'
+D:\MyFiles\2\SDK\Include\dxgitype.h(17,1): warning C4005: 'DXGI_STATUS_MODE_CHANGED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58064,1): message : see previous definition of 'DXGI_STATUS_MODE_CHANGED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(18,1): warning C4005: 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58073,1): message : see previous definition of 'DXGI_STATUS_MODE_CHANGE_IN_PROGRESS'
+D:\MyFiles\2\SDK\Include\dxgitype.h(21,1): warning C4005: 'DXGI_ERROR_INVALID_CALL': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58088,1): message : see previous definition of 'DXGI_ERROR_INVALID_CALL'
+D:\MyFiles\2\SDK\Include\dxgitype.h(22,1): warning C4005: 'DXGI_ERROR_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58097,1): message : see previous definition of 'DXGI_ERROR_NOT_FOUND'
+D:\MyFiles\2\SDK\Include\dxgitype.h(23,1): warning C4005: 'DXGI_ERROR_MORE_DATA': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58106,1): message : see previous definition of 'DXGI_ERROR_MORE_DATA'
+D:\MyFiles\2\SDK\Include\dxgitype.h(24,1): warning C4005: 'DXGI_ERROR_UNSUPPORTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58115,1): message : see previous definition of 'DXGI_ERROR_UNSUPPORTED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(25,1): warning C4005: 'DXGI_ERROR_DEVICE_REMOVED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58124,1): message : see previous definition of 'DXGI_ERROR_DEVICE_REMOVED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(26,1): warning C4005: 'DXGI_ERROR_DEVICE_HUNG': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58133,1): message : see previous definition of 'DXGI_ERROR_DEVICE_HUNG'
+D:\MyFiles\2\SDK\Include\dxgitype.h(27,1): warning C4005: 'DXGI_ERROR_DEVICE_RESET': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58143,1): message : see previous definition of 'DXGI_ERROR_DEVICE_RESET'
+D:\MyFiles\2\SDK\Include\dxgitype.h(28,1): warning C4005: 'DXGI_ERROR_WAS_STILL_DRAWING': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58152,1): message : see previous definition of 'DXGI_ERROR_WAS_STILL_DRAWING'
+D:\MyFiles\2\SDK\Include\dxgitype.h(29,1): warning C4005: 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58162,1): message : see previous definition of 'DXGI_ERROR_FRAME_STATISTICS_DISJOINT'
+D:\MyFiles\2\SDK\Include\dxgitype.h(30,1): warning C4005: 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58171,1): message : see previous definition of 'DXGI_ERROR_GRAPHICS_VIDPN_SOURCE_IN_USE'
+D:\MyFiles\2\SDK\Include\dxgitype.h(31,1): warning C4005: 'DXGI_ERROR_DRIVER_INTERNAL_ERROR': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58181,1): message : see previous definition of 'DXGI_ERROR_DRIVER_INTERNAL_ERROR'
+D:\MyFiles\2\SDK\Include\dxgitype.h(32,1): warning C4005: 'DXGI_ERROR_NONEXCLUSIVE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58190,1): message : see previous definition of 'DXGI_ERROR_NONEXCLUSIVE'
+D:\MyFiles\2\SDK\Include\dxgitype.h(33,1): warning C4005: 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58199,1): message : see previous definition of 'DXGI_ERROR_NOT_CURRENTLY_AVAILABLE'
+D:\MyFiles\2\SDK\Include\dxgitype.h(34,1): warning C4005: 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58209,1): message : see previous definition of 'DXGI_ERROR_REMOTE_CLIENT_DISCONNECTED'
+D:\MyFiles\2\SDK\Include\dxgitype.h(35,1): warning C4005: 'DXGI_ERROR_REMOTE_OUTOFMEMORY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58218,1): message : see previous definition of 'DXGI_ERROR_REMOTE_OUTOFMEMORY'
+D:\MyFiles\2\SDK\Include\d3d11.h(917,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58524,1): message : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+D:\MyFiles\2\SDK\Include\d3d11.h(918,1): warning C4005: 'D3D11_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58533,1): message : see previous definition of 'D3D11_ERROR_FILE_NOT_FOUND'
+D:\MyFiles\2\SDK\Include\d3d11.h(919,1): warning C4005: 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58543,1): message : see previous definition of 'D3D11_ERROR_TOO_MANY_UNIQUE_VIEW_OBJECTS'
+D:\MyFiles\2\SDK\Include\d3d11.h(920,1): warning C4005: 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58552,1): message : see previous definition of 'D3D11_ERROR_DEFERRED_CONTEXT_MAP_WITHOUT_INITIAL_DISCARD'
+D:\MyFiles\2\SDK\Include\d3d10.h(608,1): warning C4005: 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58500,1): message : see previous definition of 'D3D10_ERROR_TOO_MANY_UNIQUE_STATE_OBJECTS'
+D:\MyFiles\2\SDK\Include\d3d10.h(609,1): warning C4005: 'D3D10_ERROR_FILE_NOT_FOUND': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\winerror.h(58509,1): message : see previous definition of 'D3D10_ERROR_FILE_NOT_FOUND'
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(24,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(24,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(20,67): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(29,22): warning C4459: declaration of 'hwnd' hides global declaration
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(3,6): message : see declaration of 'hwnd'
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(155,56): warning C4244: 'argument': conversion from 'int' to 'BYTE', possible loss of data
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(126,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(92,11): warning C4101: 'mouse': unreferenced local variable
+D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\examples\example_win32_directx11\main.cpp(127,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2098 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+library_x64.lib(auth.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(auth.obj)' or at ''; linking object as if no debug info
+library_x64.lib(utils.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(utils.obj)' or at ''; linking object as if no debug info
+library_x64.lib(hmac_sha256.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(hmac_sha256.obj)' or at ''; linking object as if no debug info
+library_x64.lib(sha256.obj) : warning LNK4099: PDB '' was not found with 'library_x64.lib(sha256.obj)' or at ''; linking object as if no debug info
+  example_win32_directx11.vcxproj -> D:\MyFiles\imgui_glasss xd11\imgui_glasss xd11\examples\example_win32_directx11\Release\example_win32_directx11.exe
